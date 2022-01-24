@@ -1,5 +1,5 @@
 import MovieStars from "components/MovieStars";
-import "./styles.scss";
+import "./styles.css";
 
 
 function MovieScore() {
